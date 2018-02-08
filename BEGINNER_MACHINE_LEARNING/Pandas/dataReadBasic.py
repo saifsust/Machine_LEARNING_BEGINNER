@@ -28,18 +28,32 @@ def lowAttribute():
     print(low.head())
    # print(dataSet.low)
 
-# main function's functionalities are implemented here
-
 
 def volume():
     print("%%%%%%%%%%%%%%%%% Volume %%%%%%%%%%%%%%%%")
     volume=dataSet['volume']
     print(volume)
+
+def dropColumn():
+    print("drop")
+    dataSet.drop(['low'],axis=1,inplace=True)
+    dataSet.drop(['ticker'],axis=1,inplace=True)
+    dataSet.drop(['date'],axis=1,inplace=True)
+    print(dataSet.head())
+
+
+
+
+
+# main function's functionalities are implemented here
+
+
 def main():
 
     data_Set()
+    dropColumn()
    # highAttribute()
-    lowAttribute()
+   # lowAttribute()
     #volume()
     return 0
 
