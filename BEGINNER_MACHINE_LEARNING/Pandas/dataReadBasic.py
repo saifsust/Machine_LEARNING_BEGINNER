@@ -21,40 +21,45 @@ def highAttribute():
     print(high.head())
 
 
-
 def lowAttribute():
     print("================= Low ===============")
-    low=dataSet['low']
+    low = dataSet['low']
     print(low.head())
-   # print(dataSet.low)
+    # print(dataSet.low)
 
 
 def volume():
     print("%%%%%%%%%%%%%%%%% Volume %%%%%%%%%%%%%%%%")
-    volume=dataSet['volume']
+    volume = dataSet['volume']
     print(volume)
 
-def dropColumn():
+
+def Drop(attribute):
+    dataSet.drop([attribute], axis=1, inplace=True)
+
+
+def matrix():
     print("drop")
-    dataSet.drop(['low'],axis=1,inplace=True)
-    dataSet.drop(['ticker'],axis=1,inplace=True)
-    dataSet.drop(['date'],axis=1,inplace=True)
-    print(dataSet.head())
-
-
-
-
-
+    Drop('ex-dividend')
+    Drop('adj_open')
+    Drop('adj_high')
+    Drop('adj_low')
+    Drop('adj_close')
+    Drop('adj_volume')
+    Drop('split_ratio')
+    Drop('ticker')
+    Drop('date')
 # main function's functionalities are implemented here
 
 
 def main():
-
+    matrix()
+    #print(dataSet.sort_values(['high','low']).head())
     data_Set()
-    dropColumn()
-   # highAttribute()
-   # lowAttribute()
-    #volume()
+    print(dataSet.describe())
+    print(dataSet.low)
+    print(dataSet.dtypes)
+    print(dataSet.columns)
     return 0
 
 
