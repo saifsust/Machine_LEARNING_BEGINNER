@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12df70cb-3c77-48c2-abbb-0619c003b609" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/dataReadBasic.py" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/dataReadBasic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY/BeginnerNumPy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,31 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dataReadBasic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/dataReadBasic.py">
+      <file leaf-file-name="BeginnerNumPy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY/BeginnerNumPy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PandasOnline.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/PandasOnline.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="regression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/REGRESSION_ANALYSIS/regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="0">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -67,6 +48,7 @@
         <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/Beginner.py" />
         <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/PandasOnline.py" />
         <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/dataReadBasic.py" />
+        <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY/BeginnerNumPy.py" />
       </list>
     </option>
   </component>
@@ -114,12 +96,6 @@
               <item name="AI_PROJECT_MACHINE_LEARNING" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI_PROJECT_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
               <item name="BEGINNER_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
-              <item name="Pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AI_PROJECT_MACHINE_LEARNING" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI_PROJECT_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
-              <item name="BEGINNER_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
               <item name="REGRESSION_ANALYSIS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,24 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dataReadBasic">
-    <configuration name="Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/BEGINNER" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AI_PROJECT_MACHINE_LEARNING" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/BEGINNER/Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.BeginnerNumPy">
     <configuration name="Beginner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,6 +145,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI_PROJECT_MACHINE_LEARNING" />
       <option name="SCRIPT_NAME" value="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BEGINNER_MACHINE_LEARNING\Pandas\PandasBeginner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="BeginnerNumPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_PROJECT_MACHINE_LEARNING" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY/BeginnerNumPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,19 +218,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Array" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Reverse" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Beginner" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PandasOnline" />
-      <item index="4" class="java.lang.String" itemvalue="Python.dataReadBasic" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Reverse" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Beginner" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PandasOnline" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dataReadBasic" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BeginnerNumPy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.dataReadBasic" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PandasOnline" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Beginner" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Reverse" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Array" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BeginnerNumPy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dataReadBasic" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PandasOnline" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Beginner" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -263,10 +239,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53433836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53433836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39865997" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -429,8 +406,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Pandas/dataReadBasic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        <state relative-caret-position="65">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY/BeginnerNumPy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
