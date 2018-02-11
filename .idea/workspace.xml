@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12df70cb-3c77-48c2-abbb-0619c003b609" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/data_preprocessing_template.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/Data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/data_preprocessing_template.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.R" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.R" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
