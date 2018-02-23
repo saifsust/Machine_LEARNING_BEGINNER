@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import Imputer
+from  sklearn.preprocessing import LabelEncoder
 
 def missingDatafinder():
     # data set read
@@ -16,6 +17,8 @@ def missingDatafinder():
     print(imputer)
     xMatrix[:,1:3]=imputer.transform(xMatrix[:,1:3])
     print(xMatrix)
+
+
 
 
 
