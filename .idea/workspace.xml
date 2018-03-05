@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12df70cb-3c77-48c2-abbb-0619c003b609" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/my.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/filter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HANDWRITTEN_OCR/DATA/test1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OPEN_CV/data/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OPEN_CV/data/data.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataAnalysis/IrisAnalysis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataset/iris.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/histrogram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/modifyHistrogram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OPEN_CV/BASIC/basic.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py" afterPath="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,22 +22,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="filter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/filter.py">
+      <file leaf-file-name="basic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OPEN_CV/BASIC/basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1034">
-              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            <state relative-caret-position="1210">
+              <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
               <folding>
-                <element signature="e#21#37#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/my.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -73,13 +70,18 @@
         <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py" />
         <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py" />
         <option value="$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/text_area_detection.py" />
+        <option value="$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/histrogram.py" />
+        <option value="$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/modifyHistrogram.py" />
+        <option value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataAnalysis/IrisAnalysis.py" />
+        <option value="$PROJECT_DIR$/OPEN_CV/BASIC/basic.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1371" />
-    <option name="width" value="1346" />
-    <option name="height" value="738" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -97,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,10 +111,22 @@
               <item name="AI_PROJECT_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
               <item name="BANGALATEXT_RECOGNIZATION" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AI_PROJECT_MACHINE_LEARNING" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_PROJECT_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
+              <item name="OPEN_CV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_PROJECT_MACHINE_LEARNING" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_PROJECT_MACHINE_LEARNING" type="462c0819:PsiDirectoryNode" />
+              <item name="OPEN_CV" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,10 +135,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\OPEN_CV\data" />
+      <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BEGINNER_MACHINE_LEARNING\MachineLearningBeginner\dataset" />
+      <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\HANDWRITTEN_OCR\DATA" />
       <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BANGALATEXT_RECOGNIZATION" />
       <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BEGINNER_MACHINE_LEARNING\Machine Learning A-Z\Part 1 - Data Preprocessing" />
-      <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BEGINNER_MACHINE_LEARNING" />
-      <recent name="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BEGINNER_MACHINE_LEARNING\DATA_SET" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -140,7 +154,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.filter">
+  <component name="RunManager" selected="Python.basic">
+    <configuration name="IrisAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataAnalysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_PROJECT_MACHINE_LEARNING" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataAnalysis/IrisAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OPEN_CV/BASIC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AI_PROJECT_MACHINE_LEARNING" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OPEN_CV/BASIC/basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="categorical_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,23 +202,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI_PROJECT_MACHINE_LEARNING" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="data_preprocessing_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AI_PROJECT_MACHINE_LEARNING" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/data_preprocessing_template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,54 +223,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="missing_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modifyHistrogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HANDWRITTEN_OCR/CODE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AI_PROJECT_MACHINE_LEARNING" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="text_area_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AI_PROJECT_MACHINE_LEARNING" />
-      <option name="SCRIPT_NAME" value="H:\pythons\AI_PROJECT_MACHINE_LEARNING\BANGALATEXT_RECOGNIZATION\filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/modifyHistrogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.data_preprocessing_template" />
-      <item index="1" class="java.lang.String" itemvalue="Python.categorical_data" />
-      <item index="2" class="java.lang.String" itemvalue="Python.missing_data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.text_area_detection" />
-      <item index="4" class="java.lang.String" itemvalue="Python.filter" />
+      <item index="0" class="java.lang.String" itemvalue="Python.categorical_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.filter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.modifyHistrogram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.IrisAnalysis" />
+      <item index="4" class="java.lang.String" itemvalue="Python.basic" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.filter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.text_area_detection" />
-        <item index="2" class="java.lang.String" itemvalue="Python.categorical_data" />
-        <item index="3" class="java.lang.String" itemvalue="Python.missing_data" />
-        <item index="4" class="java.lang.String" itemvalue="Python.data_preprocessing_template" />
+        <item index="0" class="java.lang.String" itemvalue="Python.basic" />
+        <item index="1" class="java.lang.String" itemvalue="Python.modifyHistrogram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.IrisAnalysis" />
+        <item index="3" class="java.lang.String" itemvalue="Python.categorical_data" />
+        <item index="4" class="java.lang.String" itemvalue="Python.filter" />
       </list>
     </recent_temporary>
   </component>
@@ -247,14 +261,14 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1371" y="0" width="1346" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31259722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27022377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-68" y="168" width="1322" height="264" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39712918" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39183056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26633167" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-68" y="168" width="1322" height="264" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3958692" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -266,95 +280,34 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27022377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-68" y="168" width="1322" height="264" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33825818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3958692" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/missing_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/NumPY/basicNumpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -468,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/DATA_SET/regression.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/REGRESSION_ANALYSIS/regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -500,13 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -570,36 +509,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/select.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/select.jpg" />
     <entry file="file://$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/my.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE5.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE7.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE6.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE4.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE3.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE1.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE2.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE0.png" />
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/SAVE/0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/histrogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3916">
+          <caret line="183" column="8" lean-forward="false" selection-start-line="183" selection-start-column="8" selection-end-line="183" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/DATA_SET/regression.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/Machine Learning A-Z/Part 1 - Data Preprocessing/categorical_data.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataset/iris.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HANDWRITTEN_OCR/CODE/modifyHistrogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="162" column="0" lean-forward="true" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BANGALATEXT_RECOGNIZATION/filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        <state relative-caret-position="69">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEGINNER_MACHINE_LEARNING/MachineLearningBeginner/dataAnalysis/IrisAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OPEN_CV/data/data.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OPEN_CV/BASIC/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
           <folding>
-            <element signature="e#21#37#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
